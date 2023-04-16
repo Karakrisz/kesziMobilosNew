@@ -2,7 +2,7 @@
 
 <div class="loader" id="loader-fade">
     <div class="loader-wrapper">
-        <img src="restaurant/img/loader.png" alt="image">
+        <img src="Boaz/img/logoigb.jpg" alt="image">
     </div>
 </div>
 <!--End Preloader-->
@@ -14,21 +14,20 @@
     <!--Navigation-->
     <nav class="navbar navbar-top-default nav-radius navbar-expand-lg">
         <div class="container">
-            <a href="javascript:void(0)" title="Logo" class="logo scroll">
+            <a href="/" title="Logo" class="logo scroll">
                 <!--Logo Default-->
-                <img src="restaurant/img/logo.png" alt="logo" class="logo-dark logo-default">
-                <img src="restaurant/img/logo2.png" alt="logo" class="logo-light logo-scrolled">
+                <img src="Boaz/img/logofull.png" alt="logo" class="logo-dark logo-default">
+                <img src="Boaz/img/logofull.png" alt="logo" class="logo-light logo-scrolled">
             </a>
 
             <!--Nav Links-->
             <div class="collapse navbar-collapse">
                 <div class="navbar-nav ml-auto">
-                    <a class="nav-link scroll" href="#home">Home</a>
-                    <a class="nav-link scroll" href="#about">About</a>
-                    <a class="nav-link scroll" href="#reservation">Reservation</a>
-                    <a class="nav-link scroll" href="#ourmenu">Our Menu</a>
-                    <a class="nav-link scroll" href="#ourblog">Our Blog</a>
-                    <a class="nav-link scroll" href="#contactus">Contact us</a>
+                    <a class="nav-link scroll" href="#home">Kezdőlap</a>
+                    <a class="nav-link scroll" href="#reservation">Szerviz</a>
+                    <a class="nav-link scroll" href="#ourmenu">Galléria</a>
+                    <a class="nav-link scroll" href="#ourblog">Üzleteink</a>
+                    <a class="nav-link scroll" href="#contactus">Kapcsolat</a>
                 </div>
                 <div> <span class="open_search"><i class="fas fa-search"></i> </span></div>
 
@@ -71,36 +70,26 @@
             <nav class="side-nav w-100">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link  scroll" href="#home">Home</a>
+                        <a class="nav-link  scroll" href="#home">Kezdőlap</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  scroll" href="#about">About</a>
+                        <a class="nav-link  scroll" href="#reservation">Szerviz</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  scroll" href="#reservation">Reservation</a>
+                        <a class="nav-link  scroll" href="#gallery">Galléria</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  scroll" href="#gallery">Gallery</a>
+                        <a class="nav-link  scroll" href="#ourblog">Üzleteink</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  scroll" href="#ourblog">Our Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link  scroll" href="#contactus">Contact us</a>
+                        <a class="nav-link  scroll" href="#contactus">Kapcsolat</a>
                     </li>
                 </ul>
             </nav>
 
             <div class="side-footer text-white w-100">
-                <ul class="social-icons-simple">
-                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i
-                                class="fab fa-facebook-f"></i> </a> </li>
-                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i
-                                class="fab fa-instagram"></i> </a> </li>
-                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i
-                                class="fab fa-twitter"></i> </a> </li>
-                </ul>
-                <p class="text-white">&copy; 2023 MegaOne. Made With Love by Themesindustry</p>
+                <p class="text-white">© Minden jog fenntartva 2022 by <a target="_blank"
+                        href="https://www.yousite.hu/">youSite</a></p>
             </div>
         </div>
     </div>

@@ -34,6 +34,8 @@
     <link rel="stylesheet" href="vendor/css/select2.min.css">
     <link rel="stylesheet" href="vendor/css/jquery-ui.bundle.css">
     <link rel="stylesheet" href="restaurant/css/style.css">
+    <!-- Style Sheet Boaz -->
+    <link rel="stylesheet" href="Boaz/css/style.css">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="90" class="position-relative">

@@ -4,22 +4,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="footer-social">
-                    <ul class="list-unstyled text-white">
-                        <li><a class="wow fadeInUp facebook-bg-hvr" href="javascript:void(0);"><i
-                                    class="fab fa-facebook-f"></i></a></li>
-                        <li><a class="wow fadeInDown twitter-bg-hvr" href="javascript:void(0);"><i
-                                    class="fab fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a class="wow fadeInUp google-bg-hvr" href="javascript:void(0);"><i
-                                    class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
-                        <li><a class="wow fadeInDown linkedin-bg-hvr" href="javascript:void(0);"><i
-                                    class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
-                        <li><a class="wow fadeInUp instagram-bg-hvr" href="javascript:void(0);"><i
-                                    class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                    </ul>
-                </div>
-                <p class="company-about fadeIn theme-dark text-capitalize">&copy; 2023 MegaOne. Made With Love By <a
-                        class="theme-dark" href="javascript:void(0);">Themesindustry</a></p>
+                <p class="company-about fadeIn theme-dark text-capitalize">© Minden jog fenntartva 2022 by <a
+                        target="_blank" href="https://www.yousite.hu/">youSite</a></p>
             </div>
         </div>
     </div>

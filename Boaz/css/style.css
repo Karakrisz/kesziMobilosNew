@@ -1,9 +1,156 @@
 /********************  Boaz formating start **********************/
 
+.position-relative {
+    position: relative;
+}
+
+.navbar.navbar-top-default.nav-radius.navbar-expand-lg,
+#slide-44-layer-2,
+#slide-44-layer-3,
+#slide-45-layer-2,
+#slide-45-layer-3,
+#slide-46-layer-1,
+#slide-46-layer-2,
+#slide-46-layer-3,
+.contact-wrap {
+    background-color: rgba(0, 0, 0, .7);
+    font-size: 18px;
+    color: #fff;
+}
+
+#slide-44-layer-1,
+#slide-44-layer-2,
+#slide-44-layer-3,
+#slide-45-layer-1,
+#slide-45-layer-2,
+#slide-45-layer-3,
+#slide-46-layer-2,
+#slide-46-layer-3 {
+    padding: 0 .5rem !important;
+}
+
+#slide-44-layer-1,
+#slide-45-layer-1,
+#slide-46-layer-1 {
+    background-color: #fff;
+}
+
+#slide-45-layer-1 {
+    color: #F42C04 !important;
+}
+
+
+/********************  Display none elem start **********************/
+
+.social-icons-simple.revicon.darkcolor,
+.bg-testimonial.parallax.parallaxie,
+.open_search,
+.form-div__email-confirmation-text-box {
+    display: none;
+}
+
+
+/********************  Display none elem end **********************/
+
+
+/********************  navbar formating start **********************/
+
+.header-appear .navbar-top-default .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.header-appear .sidemenu_btn span {
+    background: #fff;
+}
+
+.nav-radius .navbar-nav .nav-link.active {
+    background: #fff;
+    color: #340068 !important;
+}
+
+.header-appear .nav-radius .navbar-nav .nav-link.active {
+    background: #fff;
+    color: #340068 !important;
+}
+
+header a.logo img {
+    max-height: 100%;
+    max-width: 230px;
+    margin-bottom: 1em;
+}
+
+
+/********************  navbar formating end **********************/
+
+
+/********************  slide formating start **********************/
+
+.btn.btn-rounded.btn-large.btn-pink,
+.btn.btn-large {
+    font-size: 23px !important;
+}
+
+
+/********************  slide formating end **********************/
+
+
+/********************  feature formating start **********************/
+
+.feature-content .feature-col>.box {
+    padding: 2rem;
+    min-height: 250px;
+}
+
+
+/********************  feature formating end **********************/
+
+
+/********************  our menu formating start **********************/
+
+.da-thumbs li {
+    box-shadow: unset;
+}
+
+.da-thumbs>li .overlay,
+.bg-counter-box {
+    background-color: rgba(0, 0, 0, .7);
+}
+
+
+/********************  our menu formating end **********************/
+
+
+/********************  counters formating start **********************/
+
+.bg-counter-box {
+    width: 100%;
+    height: 100%;
+    opacity: .7;
+    top: 0;
+}
+
+
+/********************  counters formating end **********************/
+
+
+/********************  blog formating start **********************/
+
+.owl-carousel .owl-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+
+/********************  blog formating end **********************/
+
 
 /********************  Media start **********************/
 
-@media screen and (max-width: 767px) {}
+@media screen and (max-width: 767px) {
+    header a.logo img {
+        display: none;
+    }
+}
 
 
 /********************  Media end **********************/
