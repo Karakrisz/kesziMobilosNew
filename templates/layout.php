@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><?php echo 'iGsm box - ' . $title; ?></title>
     <meta property="og:title" content="iGSM BOX" />
-    <meta property="og:image" content="KaraKrisz/img/logoigb.jpg" />
+    <meta property="og:image" content="Boaz/img/logoigb.jpg" />
     <meta property="og:site_name" content="iGSM BOX" />
     <meta property="og:description" content="Ha értesülni szeretnél havi akcióinkról, vagy termékeink újítását kísérnéd figyelemmel,
         akkor kövess minket. Folyamatosan bővül kínáltunk, legkorszerűbb termékeket láthatod a legkedvezőbb áron!" />
@@ -20,7 +20,7 @@
     <meta name="DC.title" content="Keszi mobilos" />
     <meta name="DC.type" content="website" />
     <!-- Favicon -->
-    <link rel="icon" href="restaurant/img/favicon.ico">
+    <link rel="icon" href="Boaz/img/logoigb.ico">
     <!-- Bundle -->
     <link rel="stylesheet" href="vendor/css/bundle.min.css">
     <!-- Plugin Css -->

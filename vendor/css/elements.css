@@ -88,7 +88,7 @@ a {
 .ui-element .main-title h2 {
     text-transform: capitalize;
     font-weight: 300;
-    color: #484b59;
+    color: #635C51;
     font-size: 3rem;
     line-height: 1.4;
     max-width: 650px;
@@ -392,7 +392,7 @@ a {
 .mega-elements .center-logo.black .navbar-nav .nav-link,
 .mega-elements .bg-white2.black .navbar-nav .nav-link,
 .mega-elements .bg-white2.black.fixed-menu .navbar-nav .nav-link {
-    color: #484b59;
+    color: #635C51;
 }
 
 .mega-elements .bg-white2.box-nav.black .navbar-nav .nav-link,
@@ -430,7 +430,7 @@ a {
 /* fixed nav hover */
 
 .mega-elements .fixed-menu.navbar-top-default .navbar-nav .nav-link {
-    color: #484b59;
+    color: #635C51;
 }
 
 .mega-elements .fixed-menu.navbar-top-default .navbar-nav .nav-link:hover,
@@ -442,7 +442,7 @@ a {
 /* fixed black nav */
 
 .mega-elements .fixed-black-nav.fixed-menu {
-    background: #484b59;
+    background: #635C51;
 }
 
 .mega-elements .fixed-black-nav.fixed-menu.navbar-top-default .navbar-nav .nav-link:hover {
@@ -535,7 +535,7 @@ header.mega-elements .navbar-top-default.seven-links .header-social {
 
 header.mega-elements .navbar-top-default .header-social a {
     font-size: 14px;
-    color: #484b59;
+    color: #635C51;
     height: 36px;
     width: 37px;
     line-height: 38px;
@@ -1290,7 +1290,7 @@ header.mega-elements .fixed-menu.navbar-top-default .header-social a:hover {
 }
 
 .elements-boxes .color-white {
-    color: #484b59;
+    color: #635C51;
 }
 
 .elements-boxes .color-light-gw {
@@ -1388,7 +1388,7 @@ header.mega-elements .fixed-menu.navbar-top-default .header-social a:hover {
 .elements-steps .main-title h2 {
     text-transform: capitalize;
     font-weight: 300;
-    color: #484b59;
+    color: #635C51;
     line-height: 1.4;
     margin-bottom: 1rem;
     margin-left: auto;
@@ -1432,7 +1432,7 @@ header.mega-elements .fixed-menu.navbar-top-default .header-social a:hover {
 
 .elements-steps pre {
     border-radius: 4px;
-    background-color: #484b59;
+    background-color: #635C51;
     color: #ffffff;
 }
 
@@ -11423,7 +11423,7 @@ section.ui-block-25 {
 .ui-block-13.stats .main-title h2 {
     text-transform: capitalize;
     font-weight: 300;
-    color: #484b59;
+    color: #635C51;
     font-size: 48px;
     line-height: 1.2;
     max-width: 700px;
@@ -11455,7 +11455,7 @@ section.ui-block-25 {
     font-family: 'Baloo Bhai', cursive;
     text-transform: initial;
     font-weight: 500;
-    color: #484b59;
+    color: #635C51;
     line-height: 1.2;
     max-width: 700px;
 }
@@ -18509,7 +18509,7 @@ section.ui-block-25 {
 .ui-block-04.blog .blog-text h2 {
     font-size: 2rem;
     margin-bottom: 1.2rem;
-    color: #484b59;
+    color: #635C51;
     font-weight: 500;
     font-family: 'Baloo Bhai', sans-serif;
     line-height: 1.3;
@@ -32235,7 +32235,7 @@ section.main-page {
 }
 
 .main-page .cbp-l-filters-list .cbp-filter-item {
-    color: #484b59;
+    color: #635C51;
     display: table-cell;
     font: 400 15px/35px "Poppins", sans-serif;
     padding: 0 8px;
@@ -32294,7 +32294,7 @@ section.main-page {
 .main-page .cbp-l-grid-blog-title {
     text-transform: capitalize;
     font: 400 20px/28px "Roboto", sans-serif;
-    color: #484b59;
+    color: #635C51;
     margin-top: 30px;
     display: inline-block;
     text-align: center;
@@ -32309,15 +32309,15 @@ section.main-page {
 }
 
 .main-page .cbp-l-filters-alignCenter .cbp-filter-counter {
-    background-color: #484b59;
+    background-color: #635C51;
 }
 
 .main-page .cbp-l-filters-alignCenter .cbp-filter-counter:after {
-    border-top: 4px solid #484b59;
+    border-top: 4px solid #635C51;
 }
 
 .main-page .cbp-l-filters-alignCenter .cbp-filter-item {
-    color: #484b59;
+    color: #635C51;
     font: 400 16px/20px "Poppins", sans-serif;
     margin: 10px 0 0;
 }

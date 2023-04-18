@@ -147,8 +147,21 @@ header a.logo img {
 /********************  Media start **********************/
 
 @media screen and (max-width: 767px) {
+    p {
+        font-size: 13px;
+    }
+    .wrap__p {
+        color: #fff !important;
+    }
     header a.logo img {
         display: none;
+    }
+    #slide-44-layer-3,
+    #slide-45-layer-3,
+    #slide-46-layer-3 {
+        font-size: 15px !important;
+        line-height: 22px !important;
+        top: .1em !important;
     }
 }
 

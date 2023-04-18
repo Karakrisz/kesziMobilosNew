@@ -1,10 +1,10 @@
 <!--Preloader-->
-
+<!-- 
 <div class="loader" id="loader-fade">
     <div class="loader-wrapper">
         <img src="Boaz/img/logoigb.jpg" alt="image">
     </div>
-</div>
+</div> -->
 <!--End Preloader-->
 
 
@@ -76,7 +76,7 @@
                         <a class="nav-link  scroll" href="#reservation">Szerviz</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  scroll" href="#gallery">Galléria</a>
+                        <a class="nav-link  scroll" href="#ourmenu">Galléria</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  scroll" href="#ourblog">Üzleteink</a>

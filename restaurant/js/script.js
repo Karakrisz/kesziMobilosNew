@@ -385,6 +385,8 @@ jQuery(function($) {
             url: "/service-request",
             data: "event=" + event + "&user_name=" + user_name + "&phone_name=" + phone_name + "&user_email=" + user_email + "&user_tel=" + user_tel + "&user_message=" + user_message + "&user_message=" + user_message,
             success: function() {
+
+                $('.submit-btn-rounded').hide();
                 $('.form-div__email-confirmation-text-box').fadeIn();
                 $('#form-div__email-confirmation-text-box__alert-box__p').text('Az igénylést rögzítettük, köszönjük ! ');
                 $("#beep__active").delay(50).get(0).play();

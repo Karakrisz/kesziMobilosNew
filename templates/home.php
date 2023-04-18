@@ -172,7 +172,7 @@
                         data-textAlign="['right','right','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                         style="z-index: 6; white-space: nowrap; font-size: 72px; line-height: 82px; font-weight: 500; color: #340068; letter-spacing: 0px;font-family:Baloo Bhai;">
-                        iGM BOX & Full GSM</div>
+                        iGSM BOX & Full GSM</div>
 
                     <!-- LAYER NR. 11 -->
                     <div class="tp-caption   tp-resizeme" id="slide-46-layer-3"
@@ -445,20 +445,21 @@
                                                 <div class="form-group">
                                                     <input type="hidden" name="event" id="event" value="sendemail">
                                                     <input type="submit" value="Igénylés beküldése"
-                                                        class="btn btn-rounded btn-large btn-green fadeInDown-slide animated  text-uppercase">
-                                                    <div class="submitting"></div>
+                                                        class="btn btn-rounded submit-btn-rounded btn-large btn-green fadeInDown-slide animated  text-uppercase">
+                                                    <div class="form-div__email-confirmation-text-box">
+                                                        <div
+                                                            class="alert alert-success form-div__email-confirmation-text-box__alert-box">
+                                                            <p id="form-div__email-confirmation-text-box__alert-box__p">
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="submitting">
+
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </form>
-                                </div>
-                            </div>
-                            <div class="col-md-5 service-request-section-container-row-img-box">
-                                <div class="form-div__email-confirmation-text-box">
-                                    <div class="alert alert-success form-div__email-confirmation-text-box__alert-box">
-                                        <p id="form-div__email-confirmation-text-box__alert-box__p">
-                                        </p>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1001,19 +1002,7 @@
                 </div>
                 <div id="blog-slider" class="owl-carousel">
                     <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/igbdunakeszi/IMG_1419.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/igbdunakeszi/IMG_1420.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/igbdunakeszi/IMG_1423.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/igbdunakeszi/IMG_1425.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/igbdunakeszi/IMG_1427.jpg" alt="image">
+                        <img src="Boaz/img/shop/igbdunakeszi/img_1419.png" alt="image">
                     </div>
 
                 </div>
@@ -1048,16 +1037,7 @@
                 <!--Blog Image-->
                 <div id="blog-slider-1" class="owl-carousel">
                     <div class="item blog-image2 text-right hover-effect wow fadeInRight">
-                        <img src="Boaz/img/shop/fullgsm-fot/IMG_20210510_090634.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image2 text-right hover-effect wow fadeInRight">
-                        <img src="Boaz/img/shop/fullgsm-fot/IMG_20210510_090706.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image2 text-right hover-effect wow fadeInRight">
-                        <img src="Boaz/img/shop/fullgsm-fot/IMG_20210510_090732.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image2 text-right hover-effect wow fadeInRight">
-                        <img src="Boaz/img/shop/fullgsm-fot/IMG_20210510_090749.jpg" alt="image">
+                        <img src="Boaz/img/shop/fullgsm-fot/img_20210510_090634.jpg" alt="image">
                     </div>
                 </div>
             </div>
@@ -1091,15 +1071,6 @@
                     </div>
                 </div>
                 <div id="blog-slider-3" class="owl-carousel">
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/fullgsm-dunakeszi/IMG_4937.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/fullgsm-dunakeszi/IMG_4938.jpg" alt="image">
-                    </div>
-                    <div class="item blog-image wow hover-effect fadeInLeft">
-                        <img src="Boaz/img/shop/fullgsm-dunakeszi/IMG_4939.jpg" alt="image">
-                    </div>
                     <div class="item blog-image wow hover-effect fadeInLeft">
                         <img src="Boaz/img/shop/fullgsm-dunakeszi/IMG_4941.jpg" alt="image">
                     </div>
